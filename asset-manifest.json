@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/controlla-scrolla/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/controlla-scrolla/static/js/main.ea0dccbe.chunk.js",
+    "main.js.map": "/controlla-scrolla/static/js/main.ea0dccbe.chunk.js.map",
+    "runtime-main.js": "/controlla-scrolla/static/js/runtime-main.5383f017.js",
+    "runtime-main.js.map": "/controlla-scrolla/static/js/runtime-main.5383f017.js.map",
+    "static/js/2.b27df691.chunk.js": "/controlla-scrolla/static/js/2.b27df691.chunk.js",
+    "static/js/2.b27df691.chunk.js.map": "/controlla-scrolla/static/js/2.b27df691.chunk.js.map",
+    "static/js/3.bced4f4c.chunk.js": "/controlla-scrolla/static/js/3.bced4f4c.chunk.js",
+    "static/js/3.bced4f4c.chunk.js.map": "/controlla-scrolla/static/js/3.bced4f4c.chunk.js.map",
+    "index.html": "/controlla-scrolla/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/controlla-scrolla/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.b27df691.chunk.js.LICENSE.txt": "/controlla-scrolla/static/js/2.b27df691.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/controlla-scrolla/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5383f017.js",
+    "static/js/2.b27df691.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.ea0dccbe.chunk.js"
+  ]
+}
